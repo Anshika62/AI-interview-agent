@@ -1,0 +1,5 @@
+[project]
+  subdomain = "rag-chatbot-agent-ec0c56ql"
+
+[agent]
+  id = "CA_Uy9MzB4kb6tS"
